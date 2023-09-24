@@ -1,5 +1,5 @@
 function AppLoader() {
-  return <div></div>;
+  return <div className="loader"></div>;
 }
 
 export default AppLoader;
